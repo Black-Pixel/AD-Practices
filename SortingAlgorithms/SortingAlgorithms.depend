@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1370708398 source:c:\users\andy\documents\code\c-c++\codeblockshell\sortingalgorithms\bubblesort.cpp
+	"BubbleSort.h"
+	<iostream>
+
+1370708384 c:\users\andy\documents\code\c-c++\codeblockshell\sortingalgorithms\bubblesort.h
+
+1370801661 source:c:\users\andy\documents\code\c-c++\codeblockshell\sortingalgorithms\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<sstream>
+	"BubbleSort.h"
+	"InsertionSort.h"
+	"SelectionSort.h"
+	"QuickSort.h"
+
+1370710689 source:c:\users\andy\documents\code\c-c++\codeblockshell\sortingalgorithms\insertionsort.cpp
+	"InsertionSort.h"
+	<iostream>
+
+1370708571 c:\users\andy\documents\code\c-c++\codeblockshell\sortingalgorithms\insertionsort.h
+
+1370711031 c:\users\andy\documents\code\c-c++\codeblockshell\sortingalgorithms\selectionsort.h
+
+1370712694 source:c:\users\andy\documents\code\c-c++\codeblockshell\sortingalgorithms\selectionsort.cpp
+	"SelectionSort.h"
+	<iostream>
+
+1370801766 c:\users\andy\documents\code\c-c++\codeblockshell\sortingalgorithms\quicksort.h
+
+1370793480 source:c:\users\andy\documents\code\c-c++\codeblockshell\sortingalgorithms\quicksort.cpp
+	"QuickSort.h"
+	<iostream>
+
+1370823531 source:c:\users\andy\documents\code\c-c++\codeblockshell\sortingalgorithms\mergesort.cpp
+	"MergeSort.h"
+	<iostream>
+
+1370823482 c:\users\andy\documents\code\c-c++\codeblockshell\sortingalgorithms\mergesort.h
+
